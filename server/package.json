@@ -1,0 +1,14 @@
+{
+  "name": "live-chat-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/souzarodrigoap/live-chat-graphql.git",
+  "author": "Rodrigo Aparecido <rsouzacontato@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "1.18.3"
+  }
+}
