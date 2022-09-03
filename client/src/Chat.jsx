@@ -51,7 +51,7 @@ const Messages = ({ user }) => {
             paddingBottom: "1em",
           }}
         >
-          {user !== messageUser && (
+          {user === messageUser && (
             <div 
               style={{
                 height:50,
